@@ -1,2 +1,4 @@
 Sempre coloque boas mensagens no seu commit
 colocar infromações no local é importante
+
+Trabalhe sempre no banco de desenvolvimento, e depois espalhe as mudanças para o principal
